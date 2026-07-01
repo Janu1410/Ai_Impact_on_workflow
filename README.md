@@ -26,7 +26,7 @@ Pandas, NumPy — Data manipulation and transformation
 scikit-learn — Machine learning — Logistic Regression, Random Forest
 Matplotlib, Seaborn — Data visualization and EDA charts
 MySQL — Data storage and SQL business queries
-SQLAlchemy + PyMySQL — Python to MySQL connection pipeline
+Aiven + DBeaver — Python to MySQL connection pipeline
 Power BI Desktop — Interactive 6-page dashboard
 
 Machine Learning Pipeline :-
